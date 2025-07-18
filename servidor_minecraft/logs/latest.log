@@ -13259,3 +13259,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 23:09:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito left the game
 [18Jul2025 23:13:18.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:60782] logged in with entity id 42688 at (664.6999999880791, 36.0, -43.30000001192093)
 [18Jul2025 23:13:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[18Jul2025 23:20:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Diamonds!]
+[18Jul2025 23:25:46.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks

@@ -21102,3 +21102,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 23:13:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
 [18Jul2025 23:15:46.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 23:15:46.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 23:20:46.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 23:20:46.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 23:20:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Diamonds!]
+[18Jul2025 23:25:46.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 23:25:46.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 23:25:46.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
