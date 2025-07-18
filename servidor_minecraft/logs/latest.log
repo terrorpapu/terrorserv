@@ -13177,3 +13177,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 22:35:59.619] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
 [18Jul2025 22:35:59.619] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
 [18Jul2025 22:35:59.619] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[18Jul2025 22:37:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> el oro, lo ma duro del sistema
+[18Jul2025 22:38:06.353] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[18Jul2025 22:38:06.354] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[18Jul2025 22:38:06.355] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[18Jul2025 22:38:06.355] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[18Jul2025 22:38:06.579] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[18Jul2025 22:38:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ok afk 1min
+[18Jul2025 22:38:55.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Timed out
+[18Jul2025 22:38:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 22:39:42.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:12360] logged in with entity id 35235 at (659.6221104897501, 74.0, -18.30000001192093)
+[18Jul2025 22:39:42.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[18Jul2025 22:39:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el oro, lo ma duro sel sistema
+[18Jul2025 22:40:31.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> consegui mochila
+[18Jul2025 22:41:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> geoda
+[18Jul2025 22:41:27.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
+[18Jul2025 22:41:27.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 22:42:43.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] che mi propio serverm kikea tdo el rato
+[18Jul2025 22:42:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mina todo de la geoda
+[18Jul2025 22:42:48.755] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7e5f1198[id=<null>,name=clqwn,properties={},legacy=false] (/100.127.109.1:59954): Took too long to log in
+[18Jul2025 22:42:48.756] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e5f1198[id=<null>,name=clqwn,properties={},legacy=false] (/100.127.109.1:59954) lost connection: Took too long to log in
+[18Jul2025 22:42:48.809] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 22:42:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] necesitaos eso
+[18Jul2025 22:43:06.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:59971] logged in with entity id 36033 at (648.0879133813879, 64.0, -28.3904288374173)
+[18Jul2025 22:43:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[18Jul2025 22:43:21.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> volvi
+[18Jul2025 22:43:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> zzz
+[18Jul2025 22:44:10.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:44:12.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> zzz
+[18Jul2025 22:44:15.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> zzzz
+[18Jul2025 22:44:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> si ves endermans igual trata d matarlos
+[18Jul2025 22:44:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> podemos hacer la waystone
+[18Jul2025 22:44:46.459] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[18Jul2025 22:45:47.013] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[18Jul2025 22:46:33.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[18Jul2025 22:46:34.380] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[18Jul2025 22:46:34.381] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[18Jul2025 22:46:34.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[18Jul2025 22:46:34.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[18Jul2025 22:46:34.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[18Jul2025 22:46:34.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[18Jul2025 22:47:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> mira tab xd
+[18Jul2025 22:47:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> slm
+[18Jul2025 22:47:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> alv
+[18Jul2025 22:47:34.799] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[18Jul2025 22:47:34.800] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[18Jul2025 22:47:34.800] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[18Jul2025 22:47:34.800] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[18Jul2025 22:47:34.800] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[18Jul2025 22:47:34.800] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[18Jul2025 22:48:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Not Today, Thank You]
+[18Jul2025 22:52:05.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has completed the challenge [It Spreads]
+[18Jul2025 22:52:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ojo
+[18Jul2025 22:52:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> q haces xd
+[18Jul2025 22:52:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> mina
+[18Jul2025 22:53:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> y vo
+[18Jul2025 22:53:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> tjb
+[18Jul2025 22:53:18.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> tmb
+[18Jul2025 22:54:58.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Timed out
+[18Jul2025 22:54:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 22:55:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pq me kikeaaaaaaaaaaaaaaaaa
+[18Jul2025 22:55:24.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:60307] logged in with entity id 40067 at (663.6999999880791, 43.0, -42.30000001192093)
+[18Jul2025 22:55:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[18Jul2025 22:55:42.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> ayuda
+[18Jul2025 22:55:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Sneak 100]
+[18Jul2025 22:55:51.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> XDDDDDDDDDDD
+[18Jul2025 22:55:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> le salio
+[18Jul2025 22:56:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> el negro d 2m
