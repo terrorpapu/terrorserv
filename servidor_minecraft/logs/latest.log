@@ -13046,3 +13046,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 21:55:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Piece of Chaos]
 [18Jul2025 21:55:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Dark Metallurgy]
 [18Jul2025 21:55:33.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> o
+[18Jul2025 21:55:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> lo mate
+[18Jul2025 21:55:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> pepita de metal oscuroo
+[18Jul2025 21:55:58.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> diamante tio
+[18Jul2025 21:56:16.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Deceived Hopes]
+[18Jul2025 21:57:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no era diamante xd
+[18Jul2025 21:57:54.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> casimuero d
+[18Jul2025 21:57:57.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> yo tmb
+[18Jul2025 21:57:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> oe
+[18Jul2025 21:58:06.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> cuando me pediste q te mate
+[18Jul2025 21:58:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> tenias el efecto "infection"?
+[18Jul2025 21:58:17.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> se
+[18Jul2025 21:58:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> xd
+[18Jul2025 21:58:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> pq
+[18Jul2025 21:58:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> tengo el efecto
+[18Jul2025 21:59:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> pq
+[18Jul2025 21:59:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no se
+[18Jul2025 21:59:20.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> me pego un zombie
+[18Jul2025 22:00:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Monster Hunter]
+[18Jul2025 22:00:12.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> putaaa
+[18Jul2025 22:00:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> me dio
+[18Jul2025 22:00:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> q
+[18Jul2025 22:00:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> XDD
+[18Jul2025 22:00:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> vuelve a base
+[18Jul2025 22:00:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> pero
+[18Jul2025 22:01:34.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:02:16.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:02:21.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23112, l='ServerLevel[world]', x=77.50, y=150.00, z=-175.12] died, message: 'Nitwit was slain by Weak Zombie'
+[18Jul2025 22:02:36.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> para curarlo creo q es una manzana dorada
+[18Jul2025 22:02:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ando con infection 2
+[18Jul2025 22:03:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Bypassing the Expiration Date]
+[18Jul2025 22:03:43.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> andas con shaders?
+[18Jul2025 22:03:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> se
+[18Jul2025 22:03:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> cuales
+[18Jul2025 22:03:59.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> hysteria
+[18Jul2025 22:04:33.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:05:01.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:05:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was slain by Door Knight
+[18Jul2025 22:05:14.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:05:36.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:05:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> zzz
