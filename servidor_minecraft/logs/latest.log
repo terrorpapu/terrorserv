@@ -12841,3 +12841,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 20:40:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn died
 [18Jul2025 20:41:10.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5054, l='ServerLevel[world]', x=59.58, y=158.23, z=-198.30] died, message: 'Villager was slain by Weak Zombie'
 [18Jul2025 20:41:17.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5053, l='ServerLevel[world]', x=60.00, y=159.00, z=-198.36] died, message: 'Armorer was slain by Weak Zombie'
+[18Jul2025 20:45:16.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 20:45:57.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito[/100.121.230.77:55588] logged in with entity id 5814 at (-1.5, 122.0, -6.5)
+[18Jul2025 20:45:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito joined the game
+[18Jul2025 20:46:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> ogh cierlos
+[18Jul2025 20:47:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Blade MoveSets]
+[18Jul2025 20:47:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Stone Age]
+[18Jul2025 20:48:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Getting an Upgrade]
+[18Jul2025 20:49:08.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Tiny Proud Soul]
+[18Jul2025 20:49:08.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Slash Blade]
+[18Jul2025 20:49:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Scarlet Temptation]
+[18Jul2025 20:49:27.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
+[18Jul2025 20:49:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 20:50:39.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bbf8815[id=<null>,name=clqwn,properties={},legacy=false] (/100.127.109.1:47410) lost connection: Disconnected
