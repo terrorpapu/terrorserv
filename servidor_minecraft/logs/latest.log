@@ -13261,3 +13261,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 23:13:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
 [18Jul2025 23:20:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Diamonds!]
 [18Jul2025 23:25:46.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[18Jul2025 23:28:18.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
+[18Jul2025 23:28:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 23:28:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jul2025 23:28:27.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 23:28:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 23:28:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jul2025 23:28:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jul2025 23:28:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:spectral_world
+[18Jul2025 23:28:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jul2025 23:28:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Jul2025 23:28:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[18Jul2025 23:28:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jul2025 23:28:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[18Jul2025 23:28:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[18Jul2025 23:28:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[18Jul2025 23:28:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[18Jul2025 23:28:29.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[18Jul2025 23:28:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spectral_world): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[18Jul2025 23:28:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jul2025 23:28:29.590] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jul2025 23:28:29.591] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18Jul2025 23:28:29.593] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jul2025 23:28:29.595] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
