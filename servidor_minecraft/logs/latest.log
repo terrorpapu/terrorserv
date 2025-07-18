@@ -12831,3 +12831,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 20:31:11.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Stone Age]
 [18Jul2025 20:32:10.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/263, l='ServerLevel[world]', x=112.59, y=144.00, z=-175.42] died, message: 'Farmer was slain by Weak Zombie'
 [18Jul2025 20:32:18.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/261, l='ServerLevel[world]', x=116.72, y=144.00, z=-177.93] died, message: 'Priest was slain by Weak Zombie'
+[18Jul2025 20:35:35.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 20:36:26.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 20:38:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Tiny Proud Soul]
+[18Jul2025 20:38:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Slash Blade]
+[18Jul2025 20:39:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[18Jul2025 20:39:51.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 20:40:52.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 20:40:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn died
+[18Jul2025 20:41:10.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5054, l='ServerLevel[world]', x=59.58, y=158.23, z=-198.30] died, message: 'Villager was slain by Weak Zombie'
+[18Jul2025 20:41:17.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5053, l='ServerLevel[world]', x=60.00, y=159.00, z=-198.36] died, message: 'Armorer was slain by Weak Zombie'
