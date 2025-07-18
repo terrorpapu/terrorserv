@@ -12854,3 +12854,62 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 20:49:27.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
 [18Jul2025 20:49:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
 [18Jul2025 20:50:39.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bbf8815[id=<null>,name=clqwn,properties={},legacy=false] (/100.127.109.1:47410) lost connection: Disconnected
+[18Jul2025 20:56:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Proud Soul]
+[18Jul2025 20:56:54.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:00:46.981] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
+[18Jul2025 21:01:04.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:01:04.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:02:35.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:54541] logged in with entity id 8866 at (87.21266015798041, 151.0, -156.42876912239475)
+[18Jul2025 21:02:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[18Jul2025 21:02:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> hola
+[18Jul2025 21:02:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Gravedigger]
+[18Jul2025 21:03:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Well prepared]
+[18Jul2025 21:04:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ontas
+[18Jul2025 21:04:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> ola
+[18Jul2025 21:04:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> nose
+[18Jul2025 21:04:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ve a al waystone xd
+[18Jul2025 21:04:46.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:04:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> se llama pne
+[18Jul2025 21:04:54.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:04:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> deberia aparecerte en el journey
+[18Jul2025 21:05:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> qaldea
+[18Jul2025 21:05:25.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no esta en aldea
+[18Jul2025 21:05:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> esta por el mundo
+[18Jul2025 21:05:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> t veo
+[18Jul2025 21:05:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> toma
+[18Jul2025 21:06:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> lo saque d la aldea
+[18Jul2025 21:06:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Isn't It Iron Pick]
+[18Jul2025 21:06:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> grsaacha
+[18Jul2025 21:06:43.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/243, l='ServerLevel[world]', x=89.06, y=147.00, z=-156.26] died, message: 'Toolsmith was slain by Weak Zombie'
+[18Jul2025 21:06:47.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/559, l='ServerLevel[world]', x=86.74, y=147.00, z=-157.04] died, message: 'Nitwit was slain by Weak Zombie'
+[18Jul2025 21:06:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ambos negros
+[18Jul2025 21:07:09.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5070, l='ServerLevel[world]', x=83.81, y=147.00, z=-162.31] died, message: 'Villager was slain by Weak Zombie'
+[18Jul2025 21:07:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ooo
+[18Jul2025 21:07:38.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8877, l='ServerLevel[world]', x=84.55, y=147.00, z=-162.49] died, message: 'Villager was slain by Weak Zombie'
+[18Jul2025 21:08:37.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> fffffffffffffranchezco
+[18Jul2025 21:08:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> virgolini
+[18Jul2025 21:08:41.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:08:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> te va bien el serv?
+[18Jul2025 21:08:55.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ando r lag
+[18Jul2025 21:09:03.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> fiuuuuuuuuuuuuuuuuuuuuuuuuuuu
+[18Jul2025 21:09:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> r cheto esto
+[18Jul2025 21:09:19.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> ven
+[18Jul2025 21:09:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> q cosa
+[18Jul2025 21:09:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> xd
+[18Jul2025 21:09:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> q fue
+[18Jul2025 21:10:00.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> me gritaron
+[18Jul2025 21:10:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> AHDKAS
+[18Jul2025 21:10:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito died
+[18Jul2025 21:10:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> xd
+[18Jul2025 21:10:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ando con auris
+[18Jul2025 21:10:36.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> si da mieo
+[18Jul2025 21:10:36.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> me re cague
+[18Jul2025 21:11:58.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> XDD
+[18Jul2025 21:12:16.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Sweet Dreams]
+[18Jul2025 21:12:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> nodeja
+[18Jul2025 21:12:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> q
+[18Jul2025 21:13:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> traelos
+[18Jul2025 21:13:48.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Monster Hunter]
+[18Jul2025 21:14:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> facilito
+[18Jul2025 21:14:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> cmo corres
+[18Jul2025 21:14:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> toma proba
