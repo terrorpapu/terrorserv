@@ -13244,3 +13244,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 22:55:51.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> XDDDDDDDDDDD
 [18Jul2025 22:55:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> le salio
 [18Jul2025 22:56:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> el negro d 2m
+[18Jul2025 22:57:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> aaaaaaaaaaaaaaaa
+[18Jul2025 22:59:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ok m voy 5min
+[18Jul2025 22:59:30.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> me llamaron dnv
+[18Jul2025 22:59:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> mira como hacer armas xd
+[18Jul2025 22:59:42.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
+[18Jul2025 22:59:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 23:02:23.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito lost connection: Disconnected
+[18Jul2025 23:02:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito left the game
+[18Jul2025 23:02:42.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito[/100.121.230.77:63879] logged in with entity id 41840 at (426.69999998807907, -16.0, -315.3673562889146)
+[18Jul2025 23:02:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito joined the game
+[18Jul2025 23:06:38.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Into Darkness]
+[18Jul2025 23:09:41.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito lost connection: Disconnected
+[18Jul2025 23:09:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito left the game
+[18Jul2025 23:13:18.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:60782] logged in with entity id 42688 at (664.6999999880791, 36.0, -43.30000001192093)
+[18Jul2025 23:13:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
