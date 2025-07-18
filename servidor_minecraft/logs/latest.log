@@ -13086,3 +13086,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 22:05:14.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [18Jul2025 22:05:36.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [18Jul2025 22:05:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> zzz
+[18Jul2025 22:06:01.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108, l='ServerLevel[world]', x=126.61, y=133.00, z=-144.75] died, message: 'Villager hit the ground too hard'
+[18Jul2025 22:06:06.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/23211, l='ServerLevel[world]', x=56.30, y=152.00, z=-173.70] died, message: 'Priest was slain by Weak Zombie'
+[18Jul2025 22:06:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> che pero esos shaders no hacen ver todo oscuro? xd
+[18Jul2025 22:06:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> acabo d buscarlos
+[18Jul2025 22:06:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> si
+[18Jul2025 22:06:21.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24948, l='ServerLevel[world]', x=59.24, y=152.06, z=-177.06] died, message: 'Villager was slain by Weak Zombie'
+[18Jul2025 22:06:24.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24976, l='ServerLevel[world]', x=65.50, y=149.00, z=-181.42] died, message: 'Farmer hit the ground too hard'
+[18Jul2025 22:06:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> el papu
+[18Jul2025 22:06:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> voy a kgar
+[18Jul2025 22:08:27.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Timed out
+[18Jul2025 22:08:27.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[18Jul2025 22:10:46.979] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2075ms or 41 ticks
+[18Jul2025 22:11:39.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 22:15:49.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/100.127.109.1:42769] logged in with entity id 26703 at (83.30000001192093, 151.0, -149.30000001192093)
+[18Jul2025 22:15:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
