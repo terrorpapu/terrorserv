@@ -12998,3 +12998,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jul2025 21:35:14.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> vamo
 [18Jul2025 21:35:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> aca
 [18Jul2025 21:35:24.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> vi una torre
+[18Jul2025 21:35:31.646] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2115ms or 42 ticks
+[18Jul2025 21:36:07.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:36:56.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> deberiamos mianr
+[18Jul2025 21:37:06.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no se si tenerle fe a las mnas xd
+[18Jul2025 21:38:05.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[18Jul2025 21:38:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Dark Metallurgy]
+[18Jul2025 21:38:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito has made the advancement [Acquire Hardware]
+[18Jul2025 21:38:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> vmos a minar
+[18Jul2025 21:38:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> q poronga
+[18Jul2025 21:39:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ok
+[18Jul2025 21:39:15.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ni uno m salio
+[18Jul2025 21:39:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> bsuquemos
+[18Jul2025 21:42:17.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> xd
+[18Jul2025 21:42:28.207] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2003ms or 40 ticks
+[18Jul2025 21:42:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ooo
+[18Jul2025 21:42:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Not Today, Thank You]
+[18Jul2025 21:43:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> servira de algo el cobre?
+[18Jul2025 21:43:20.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no c
+[18Jul2025 21:43:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ah si
+[18Jul2025 21:43:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> podemos haceer armas al parecer
+[18Jul2025 21:43:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> alv hay armas de fuego
+[18Jul2025 21:43:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> si
+[18Jul2025 21:43:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> no lo puse yo xd
+[18Jul2025 21:43:55.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> asi venia
+[18Jul2025 21:45:24.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
