@@ -11426,3 +11426,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jul2025 21:52:01.970] [Server thread/INFO] [journeymap/]: the_silence~prueba_bolsillo (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.the_silence~prueba_bolsillo.config
 [19Jul2025 21:52:01.973] [Server thread/INFO] [forge.net.trial.zombies_plus.ModMainCommon/]: Loaded mod!
 [19Jul2025 21:57:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[19Jul2025 22:02:25.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito[/100.121.230.77:54323] logged in with entity id 182 at (437.69999998807907, -5.0, -315.61032388864334)
+[19Jul2025 22:02:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito joined the game
+[19Jul2025 22:02:28.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito lost connection: Disconnected
+[19Jul2025 22:02:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito left the game
+[19Jul2025 22:02:28.148] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Sanguchito'/182, l='ServerLevel[world]', x=437.70, y=-5.00, z=-315.61, removed=UNLOADED_WITH_PLAYER]
+[19Jul2025 22:02:28.192] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4285ms or 85 ticks
+[19Jul2025 22:02:28.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[19Jul2025 22:02:28.198] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
